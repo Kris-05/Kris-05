@@ -1,17 +1,21 @@
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://github.com/Kris-05)
+
 <h1 align="center">Hi 👋, I'm Krisna VJ</h1>
 <h3 align="center">An Aspiring Full Stack Web developer</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif">
 
-- 👨‍💻 All of my projects are available at [https://kris-05.github.io/Kris-Portfolio](https://kris-05.github.io/Kris-Portfolio)
+- 🌱 I’m currently learning : **MERN Stack**
 
-- 💬 Ask me about **Data Structures and Algorithms, Web Developments**
+- 👨‍💻 All of my projects are available at : [https://kris-05.github.io/Kris-Portfolio](https://kris-05.github.io/Kris-Portfolio)
 
-- 📫 How to reach me **vjkrisna995@gmail.com**
+- 💬 Ask me about : **Data Structures and Algorithms, Web Developments**
 
-- 📄 Know about my experiences [https://kris-05.github.io/Kris-Portfolio/pdf/Krisna-Resume.pdf](https://kris-05.github.io/Kris-Portfolio/pdf/Krisna-Resume.pdf)
+- 📫 How to reach me : **vjkrisna995@gmail.com**
 
-- ⚡ Fun fact **I code, therefore, I am**
+- 📄 Know about my experiences : [https://kris-05.github.io/Kris-Portfolio/pdf/Krisna-Resume.pdf](https://kris-05.github.io/Kris-Portfolio/pdf/Krisna-Resume.pdf)
+
+- ⚡ Fun fact : **I code, therefore, I am**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
