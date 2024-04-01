@@ -1,22 +1,28 @@
-[![MasterHead](./kris-header-image.png)](https://github.com/Kris-05)
+[![MasterHead](./kris-header-image-v.2.png)](https://github.com/Kris-05)
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=9368B7&size=38&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=Hi+There!+👋;+I'm+Krisna+VJ;" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif">
+<h1 align="center"> 
+ <a href="https://www.linkedin.com/in/metta-surendhar/"><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-linkedin.svg" /></a>
+ <a href="https://instagram.com/metta_surendhar?igshid=ZDdkNTZiNTM="><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-instagram-old.svg" /></a>
+ 
+</h1>
 
-- 🌱 I’m currently learning : **MERN Stack**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif">
 
 - 🎓 I'm currently pursuing **Bachelor's Degree** in **Computer Science**
 
-- 👨‍💻 All of my projects are available at : [My Portfolio](https://kris-05.github.io/Kris-Portfolio)
+- 🌱 I’m currently learning : **MERN Stack**
 
 - 💬 Ask me about : **Data Structures and Algorithms, Web Developments**
 
-- 📫 How to reach me : **vjkrisna995@gmail.com**
+- 👨‍💻 All of my projects are available at 👉 [My Portfolio](https://kris-05.github.io/Kris-Portfolio)
 
-- 📄 Know about my experiences : <a href="https://kris-05.github.io/Kris-Portfolio/pdf/Krisna-Resume.pdf">My Resume</a>
+- 📫 How to reach me 👉 **vjkrisna995@gmail.com**
+
+- 📄 How to hire me 👉 <a href="https://kris-05.github.io/Kris-Portfolio/pdf/Krisna-Resume.pdf">My Resume</a>
 
 - ⚡ Fun fact : **I code, therefore, I am**
 
