@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://github.com/Kris-05)
+[![MasterHead](./kris-header-image.png)](https://github.com/Kris-05)
 
 <h1 align="center">Hi 👋, I'm Krisna VJ</h1>
 <h3 align="center">An Aspiring Full Stack Web developer</h3>
