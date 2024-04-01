@@ -1,19 +1,22 @@
 [![MasterHead](./kris-header-image.png)](https://github.com/Kris-05)
 
-<h1 align="center">Hi 👋, I'm Krisna VJ</h1>
-<h3 align="center">An Aspiring Full Stack Web developer</h3>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=9368B7&size=38&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=Hi+There!+👋;+I'm+Krisna+VJ;" />
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif">
 
 - 🌱 I’m currently learning : **MERN Stack**
 
-- 👨‍💻 All of my projects are available at : [https://kris-05.github.io/Kris-Portfolio](https://kris-05.github.io/Kris-Portfolio)
+- 🎓 I'm currently pursuing **Bachelor's Degree** in **Computer Science**
+
+- 👨‍💻 All of my projects are available at : [My Portfolio](https://kris-05.github.io/Kris-Portfolio)
 
 - 💬 Ask me about : **Data Structures and Algorithms, Web Developments**
 
 - 📫 How to reach me : **vjkrisna995@gmail.com**
 
-- 📄 Know about my experiences : [https://kris-05.github.io/Kris-Portfolio/pdf/Krisna-Resume.pdf](https://kris-05.github.io/Kris-Portfolio/pdf/Krisna-Resume.pdf)
+- 📄 Know about my experiences : <a href="https://kris-05.github.io/Kris-Portfolio/pdf/Krisna-Resume.pdf">My Resume</a>
 
 - ⚡ Fun fact : **I code, therefore, I am**
 
