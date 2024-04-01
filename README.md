@@ -25,22 +25,22 @@
 
 - ⚡ Fun fact : **I code, therefore, I am**
 
-<details open> 
+<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
-  <h3>Programming and Markup Languages</h3>
+  <h3>1 - Programming and Markup Languages</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,md,nodejs)](https://github.com/Kris-05)
 
-  <h3>Frameworks and Libraries</h3>
+  <h3>2 - Frameworks and Libraries</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,tailwind,react,materialui,express)](https://github.com/Kris-05)
   
-  <h3>Databases and Technologies </h3>
+  <h3>3 - Databases and Technologies </h3>
   
  [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://github.com/Kris-05)
 
-  <h3>Software and Tools</h3>
+  <h3>4 - Software and Tools</h3>
   
    [![My Skills](https://skillicons.dev/icons?i=vscode,git,gitlab,github,discord,figma,stackoverflow&perline=10)](https://github.com/Kris-05)
 
@@ -78,7 +78,7 @@
 
   <h3> ⚡GitHub Graph Activity </h3>
   
-  <a href="https://github.com/Kris-05"><img alt="Krisna's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Kris-05&bg_color=1d1d1b&color=fffd7a&line=fbff00&point=ffffd6&area=true&area_color=fdfdd3&hide_border=true" /></a>
+  <a href="https://github.com/Kris-05"><img alt="Krisna's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Kris-05&bg_color=1d1d1b&color=ABFAA9&line=4C2C69&point=ffffd6&area=true&area_color=fdfdd3&hide_border=true" /></a>
 
 </details>
 
@@ -86,7 +86,7 @@
 <details> 
   <summary><h2>📘 My Favorite Projects</h2></summary>
     
-<a href="https://kris-05.github.io/Youtube-Clone"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=Kris-05&repo=Youtube-Clone&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Youtube-Clone" /> 
+<a href="https://kris-05.github.io/Youtube-Clone"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=Kris-05&repo=Youtube-Clone&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=4A4063&text_color=C8C6D7&icon_color=fbff00&bg_color=1d1d1b" alt="Youtube-Clone" /> 
 
 
 </details>
