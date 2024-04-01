@@ -1,12 +1,12 @@
-[![MasterHead](./kris-header-image-v.2.png)](https://github.com/Kris-05)
+[![MasterHead](./kris-header-image-v2.png)](https://github.com/Kris-05)
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=9368B7&size=38&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=Hi+There!+👋;+I'm+Krisna+VJ;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=9368B7&size=38&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=Hi+There!+👋;+I'm+Krisna+VJ;" />
 </p>
 
 <h1 align="center"> 
- <a href="https://www.linkedin.com/in/metta-surendhar/"><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-linkedin.svg" /></a>
- <a href="https://instagram.com/metta_surendhar?igshid=ZDdkNTZiNTM="><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-instagram-old.svg" /></a>
+ <a href="https://www.linkedin.com/in/krisna-vj"><img color=#000 width=22 height=22 src="./assets/linkedin-logo.svg" /></a>
+ <a href="https://www.instagram.com/_kris.na__"><img color=#000 width=22 height=22 src="./assets/insta-logo.svg" /></a>
  
 </h1>
 
