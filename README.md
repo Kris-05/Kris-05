@@ -28,7 +28,7 @@
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
-  <h3>1 - Programming and Markup Languages</h3>
+  <h3>1 - Programming Languages</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,md,nodejs)](https://github.com/Kris-05)
 
@@ -36,7 +36,7 @@
 
   [![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,tailwind,react,materialui,express)](https://github.com/Kris-05)
   
-  <h3>3 - Databases and Technologies </h3>
+  <h3>3 - Databases and Technologies</h3>
   
  [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://github.com/Kris-05)
 
