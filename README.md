@@ -7,7 +7,6 @@
 <h1 align="center"> 
  <a href="https://www.linkedin.com/in/krisna-vj"><img color=#000 width=22 height=22 src="./assets/linkedin-logo.svg" /></a>
  <a href="https://www.instagram.com/_kris.na__"><img color=#000 width=22 height=22 src="./assets/insta-logo.svg" /></a>
- 
 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif">
