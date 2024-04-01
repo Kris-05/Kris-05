@@ -25,18 +25,68 @@
 
 - ⚡ Fun fact : **I code, therefore, I am**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<details open> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+  <h3>Programming and Markup Languages</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kris-05" alt="kris-05" /></a> </p>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,md,nodejs)](https://github.com/Kris-05)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kris-05&show_icons=true&locale=en&layout=compact" alt="kris-05" /></p>
+  <h3>Frameworks and Libraries</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kris-05&show_icons=true&locale=en" alt="kris-05" /></p>
+  [![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,tailwind,react,materialui,express)](https://github.com/Kris-05)
+  
+  <h3>Databases and Technologies </h3>
+  
+ [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://github.com/Kris-05)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kris-05&" alt="kris-05" /></p>
+  <h3>Software and Tools</h3>
+  
+   [![My Skills](https://skillicons.dev/icons?i=vscode,git,gitlab,github,discord,figma,stackoverflow&perline=10)](https://github.com/Kris-05)
 
+</details>
+
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+
+  <h3>🏆 GitHub Trophies </h3>
+
+   <p>
+    <a href="https://github.com/Kris-05">
+      <img alt="Krisna's streak" src="https://github-profile-trophy.vercel.app/?username=Kris-05&theme=onedark&no-frame=true&margin-w=15"/>
+    </a>
+  </p>
+
+ <br/>
+    
+  <h3>🔥 Streak Stats</h3>
+
+  <p>
+     <a href="https://github.com/Kris-05">
+      <img alt="Krisna's streak" src="https://streak-stats.demolab.com/?user=Kris-05&theme=gruvbox&hide_border=true&fire=fbff00&ring=fffd7a&background=1d1d1b&currStreakLabel=ffffff&sideLabels=ffffff"/>
+    </a>
+  </p>
+
+   <br/>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <a href="https://github.com/Kris-05"><img alt="Krisna's Github Stats" width=400px src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Kris-05&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1d1d1b&title_color=fffd7a&icon_color=fbff00" height="192px"/></a>
+  <a href="https://github.com/Kris-05"><img alt="Krisna's Top Languages" width=400px src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kris-05&layout=compact&theme=react&hide_border=true&bg_color=1d1d1b&title_color=fffd7a&icon_color=fbff00" height="192px"/></a>
+  
+  <br/>
+
+  <h3> ⚡GitHub Graph Activity </h3>
+  
+  <a href="https://github.com/Kris-05"><img alt="Krisna's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Kris-05&bg_color=1d1d1b&color=fffd7a&line=fbff00&point=ffffd6&area=true&area_color=fdfdd3&hide_border=true" /></a>
+
+</details>
+
+
+<details> 
+  <summary><h2>📘 My Favorite Projects</h2></summary>
+    
+<a href="https://kris-05.github.io/Youtube-Clone"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=Kris-05&repo=Youtube-Clone&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Youtube-Clone" /> 
+
+
+</details>
