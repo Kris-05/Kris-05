@@ -17,11 +17,11 @@
 
 - 💬 Ask me about : **Data Structures and Algorithms, Web Developments**
 
-- 👨‍💻 All of my projects are available at 👉 [My Portfolio](https://kris-05.github.io/Kris-Portfolio)
+<!-- 👨‍💻 All of my projects are available at 👉 [My Portfolio](https://kris-05.github.io/Kris-Portfolio) -->
 
 - 📫 How to reach me 👉 **vjkrisna995@gmail.com**
 
-- 📄 How to hire me 👉 <a href="https://kris-05.github.io/Kris-Portfolio/pdf/Krisna-Resume.pdf">My Resume</a>
+<!-- 📄 How to hire me 👉 <a href="https://kris-05.github.io/Kris-Portfolio/pdf/Krisna-Resume.pdf">My Resume</a> -->
 
 - ⚡ Fun fact : **I code, therefore, I am**
 
